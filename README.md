@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👨‍💻 About Me  
 
-<!--
-**NasirUddinTushi/NasirUddinTushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Nasir Uddin** 👋  
+I'm a **Backend-focused Software Engineer** currently working in the software industry,  
+specializing in building scalable and maintainable systems using **Python**.  
 
-Here are some ideas to get you started:
+- 💼 Currently: Backend Developer — working mainly with **Django**, **DRF**, **FastAPI**, and **Odoo**.  
+- 🔬 Past Experience:  
+   - Python Developer at [Company Name] — building enterprise-grade backend systems.  
+   - Research Assistant in **Machine Learning, Deep Learning, and AI** — worked on applied research projects.  
+- 🚀 Interests: Designing scalable backend architectures, AI-powered solutions, and clean, testable code.  
+- 🌱 Learning: **Microservices, Docker/Kubernetes, Advanced AI integrations**.  
+- 💡 Philosophy: *“Write clean code today, save debugging tomorrow.”*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Tech Stack  
+
+- **Languages:** Python, JavaScript  
+- **Frameworks:** Django, DRF, FastAPI, Flask, Odoo  
+- **Databases:** PostgreSQL, MySQL, SQLite  
+- **AI/ML:** TensorFlow, PyTorch, Scikit-learn  
+- **Tools:** Git, Docker, Celery, Redis, GitHub Actions  
+
+
+## 🚀 Featured Projects  
+
+- **E-commerce API** · Django, DRF, PostgreSQL, JWT  
+- **AI Research Implementations** · Machine Learning & Deep Learning models  
+- **Odoo Custom Modules** · Automation & ERP solutions  
+- **FastAPI Microservices** · Lightweight, high-performance APIs  
