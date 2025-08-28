@@ -21,10 +21,3 @@ specializing in building scalable and maintainable systems using **Python**.
 - **AI/ML:** TensorFlow, PyTorch, Scikit-learn  
 - **Tools:** Git, Docker, Celery, Redis, GitHub Actions  
 
-
-## 🚀 Featured Projects  
-
-- **E-commerce API** · Django, DRF, PostgreSQL, JWT  
-- **AI Research Implementations** · Machine Learning & Deep Learning models  
-- **Odoo Custom Modules** · Automation & ERP solutions  
-- **FastAPI Microservices** · Lightweight, high-performance APIs  
