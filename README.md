@@ -6,7 +6,7 @@ specializing in building scalable and maintainable systems using **Python**.
 
 - 💼 Currently: Backend Developer — working mainly with **Django**, **DRF**, **FastAPI**, and **Odoo**.  
 - 🔬 Past Experience:  
-   - Python Developer at [Company Name] — building enterprise-grade backend systems.  
+   - Python Developer at Betopia Group — building enterprise-grade backend systems.  
    - Research Assistant in **Machine Learning, Deep Learning, and AI** — worked on applied research projects.  
 - 🚀 Interests: Designing scalable backend architectures, AI-powered solutions, and clean, testable code.  
 - 🌱 Learning: **Microservices, Docker/Kubernetes, Advanced AI integrations**.  
